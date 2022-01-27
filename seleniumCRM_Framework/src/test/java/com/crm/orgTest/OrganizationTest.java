@@ -20,7 +20,7 @@ public class OrganizationTest {
 	
 	@Test
 	public void deleteOrgTest() {
-		System.out.println("org deleted");
+		System.out.println("org deleted successfully");
 	}
 
 }
